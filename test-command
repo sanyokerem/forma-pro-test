@@ -1,5 +1,6 @@
 #/usr/bin/env bash
 
 echo "Hello world!"
+echo ls -l
 
 exit 1
