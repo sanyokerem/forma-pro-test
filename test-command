@@ -1,6 +1,6 @@
 #/usr/bin/env bash
 
-echo "Hello world!"
+echo "Hello! Your brach is \"$2\""
 echo ls -l
 
 exit 1
