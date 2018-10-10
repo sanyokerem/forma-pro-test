@@ -2,8 +2,9 @@
 
 if [ 1 = 1 ]; then
   echo "Hi!"
+else
+  echo "Hello World!"
 fi
 
-echo "Hello World!"
 
 exit 1
